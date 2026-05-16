@@ -1,43 +1,27 @@
-# Astro on Netlify Platform Starter
+# astro-platform-starte
 
-[Live Demo](https://astro-platform-starter.netlify.app/)
+## About
+A project by Mahmudul Hasan - Diploma in Computer Science, Dhaka Polytechnic.
 
-A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blobs).
+## Tech Stack & Keywords
+- **Language:** Astro
+- **Keywords:** astro | blog | content | fast | markdown | performance | platform | seo | ssr | starte | static | website
 
-## Astro Commands
+## Features
+- Modern architecture
+- Production-ready code
+- Clean, maintainable structure
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## Deploying to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
-
-## Developing Locally
-
-| Prerequisites                                                                |
-| :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.20.8+.                                    |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
-
-1. Clone this repository, then run `npm install` in its root directory.
-
-2. Recommended: link your local repository to a Netlify project. This will ensure you're using the same runtime version for both local development and your deployed project.
-
-```
-netlify link
+## Getting Started
+```bash
+git clone https://github.com/mhcybroot/astro-platform-starte.git
+cd astro-platform-starte
 ```
 
-3. Run the Astro.js development server:
+## Author
+**Mahmudul Hasan** — IT Executive @ SKYLINK INNOVATIONS LTD.  
+📧 eng.mahmudulhasan.bd@gmail.com | 📱 +880 1537-749454  
+🔗 [GitHub](https://github.com/mhcybroot) | [LinkedIn](https://linkedin.com/in/engineermahmudulhasan)
 
-```
-npm run dev
-```
+---
+🔍 SEO: astro, blog, content, fast, markdown, performance, platform, seo, ssr, starte, static, website | Updated: 2026-05-16 13:30
